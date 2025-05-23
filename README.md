@@ -35,13 +35,10 @@ Before you begin, ensure you have the following:
 
 2. **Configure API Keys and Firebase:**
    - Place your `GoogleService-Info.plist` file in the `ReviewGenie` directory
-   - Add your Google Maps Places API key to `GoogleService-Info.plist` by adding the following key-value pair:
+   - Create `APIKeys-Info.plist` in the `ReviewGenie` directory and add your API keys:
      ```xml
      <key>GOOGLE_MAPS_PLACES_API_KEY</key>
      <string>YOUR_PLACES_API_KEY</string>
-     ```
-   - Create `APIKeys-Info.plist` in the `ReviewGenie` directory and add your Claude API key:
-     ```xml
      <key>CLAUDE_API_KEY</key>
      <string>YOUR_CLAUDE_API_KEY</string>
      <key>CLAUDE_API_VERSION</key>
