@@ -2,7 +2,11 @@
 
 ## Demo
 
-[Link to Demo Video](https://youtu.be/EOib8zWpLXY)
+[![Watch the demo](https://img.youtube.com/vi/EOib8zWpLXY/hqdefault.jpg)](https://youtu.be/EOib8zWpLXY)
+
+## Vibe Coding Experience
+
+I built ReviewGenie using vibe coding, a development approach where you act as a guide while letting LLMs generate the code. You can read about my detailed experience building this app, including the challenges, surprises, and lessons learned, in my article: [Building ReviewGenie with Vibe Coding](https://itrydat.com/posts/review-genie)
 
 ## Features
 
